@@ -1,0 +1,12 @@
+/Users/albert/_ref/dotnetcore/ref-dnc-solid-themepark/bin/Debug/netcoreapp3.1/SOLIDApp.deps.json
+/Users/albert/_ref/dotnetcore/ref-dnc-solid-themepark/bin/Debug/netcoreapp3.1/SOLIDApp.runtimeconfig.json
+/Users/albert/_ref/dotnetcore/ref-dnc-solid-themepark/bin/Debug/netcoreapp3.1/SOLIDApp.runtimeconfig.dev.json
+/Users/albert/_ref/dotnetcore/ref-dnc-solid-themepark/bin/Debug/netcoreapp3.1/SOLIDApp.dll
+/Users/albert/_ref/dotnetcore/ref-dnc-solid-themepark/bin/Debug/netcoreapp3.1/SOLIDApp.pdb
+/Users/albert/_ref/dotnetcore/ref-dnc-solid-themepark/obj/Debug/netcoreapp3.1/SOLIDApp.csprojAssemblyReference.cache
+/Users/albert/_ref/dotnetcore/ref-dnc-solid-themepark/obj/Debug/netcoreapp3.1/SOLIDApp.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/dotnetcore/ref-dnc-solid-themepark/obj/Debug/netcoreapp3.1/SOLIDApp.AssemblyInfoInputs.cache
+/Users/albert/_ref/dotnetcore/ref-dnc-solid-themepark/obj/Debug/netcoreapp3.1/SOLIDApp.AssemblyInfo.cs
+/Users/albert/_ref/dotnetcore/ref-dnc-solid-themepark/obj/Debug/netcoreapp3.1/SOLIDApp.dll
+/Users/albert/_ref/dotnetcore/ref-dnc-solid-themepark/obj/Debug/netcoreapp3.1/SOLIDApp.pdb
+/Users/albert/_ref/dotnetcore/ref-dnc-solid-themepark/obj/Debug/netcoreapp3.1/SOLIDApp.genruntimeconfig.cache
